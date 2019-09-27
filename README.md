@@ -7,6 +7,8 @@
 
 ## Features
 
+* jailbreak friggin everything (a4-a11)
+
 * Jailbreak and downgrade iPhone 3GS (new bootrom) with alloc8 untethered bootrom exploit. :-)
 
 * Pwned DFU Mode with steaks4uce exploit for S5L8720 devices.
